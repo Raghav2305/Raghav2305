@@ -8,7 +8,7 @@
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2305&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2305&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/Raghav2305/first-contributions) <br />
 
 
 - 📫 How to reach me: <br>
