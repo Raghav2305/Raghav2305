@@ -3,12 +3,7 @@
 - 🌱 I’m currently learning Django, Javascript and Image classification through Convolutional Neural Nets...
 - 💞️ I’m looking to collaborate on any challenging Python development and machine learning projects...
 
-<img align="left" alt="Raghav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raghav2305&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav2305)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Projects that I contributed to
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghav2305&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/Raghav2305/first-contributions) <br />
 
 
 - 📫 How to reach me: <br>
