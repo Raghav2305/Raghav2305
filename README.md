@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hi, I’m Raghav<br><br>👀 I’m interested in Web Development, Machine Learning, and DevOps...<br><br>🌱 I’m currently learning Django, React.js, and Image classification through Convolutional Neural Nets...<br><br>💞️ I’m looking to collaborate on any challenging Back end development and machine learning projects...
  
- <br><br>📧 Connect with me here: <a href="raghavkavimandan23@gmail.com">Email</a>
+ <br>📧 Connect with me here: raghavkavimandan23@gmail.com
 
 
 ## 🌐 Socials:
